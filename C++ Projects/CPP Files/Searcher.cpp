@@ -1,8 +1,6 @@
 /************************************************
 * Author: Mahir Rahman
-* Course: CS1336.014
 * Date: 11/26/2020
-* Assignment: Lecture Homework #10 Exercise #1
 * Compiler: VS Studio 2019
 * Description: 
 * The program searches for a certain value from
