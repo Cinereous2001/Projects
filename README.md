@@ -1,2 +1,2 @@
 # Projects
-This holds the main projects I have completed till date
+This holds the main C++ and C projects I have completed till date
