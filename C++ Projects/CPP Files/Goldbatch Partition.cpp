@@ -1,8 +1,6 @@
 /********************************************************
   Author:     Mahir Rahman
-  Course:     CS1336.014
   Date:       11/8/2020
-  Assignment: Homework #8 Exercise #1
   Compiler:   Visual Studio 2019
 
   Description:
